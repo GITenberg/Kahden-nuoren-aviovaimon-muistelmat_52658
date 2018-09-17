@@ -1,5 +1,5 @@
 _repo: Kahden-nuoren-aviovaimon-muistelmat_52658
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mémoires de deux jeunes mariées. Finnish
 contributor:
   translator:
@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '2741'
     url: http://www.gutenberg.org/2009/agents/2741
     wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -30,6 +33,8 @@ creator:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52658#Kahden-nuoren-aviovaimon-muistelmat
 gutenberg_issued: '2016-07-27'
 gutenberg_type: Text
 identifiers:
